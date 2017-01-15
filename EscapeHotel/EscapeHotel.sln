@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeHotel.CSharp.Plugins", "EscapeHotel.CSharp.Plugins.csproj", "{0761634A-B3CE-E9DC-D5F1-18F8B00F88EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeHotel.CSharp", "EscapeHotel.CSharp.csproj", "{57D21441-8501-0140-6499-D3B16708236D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeHotel.CSharp.Editor", "EscapeHotel.CSharp.Editor.csproj", "{D04C7055-1B25-E5D7-4F63-03EB04E12063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0761634A-B3CE-E9DC-D5F1-18F8B00F88EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0761634A-B3CE-E9DC-D5F1-18F8B00F88EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0761634A-B3CE-E9DC-D5F1-18F8B00F88EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0761634A-B3CE-E9DC-D5F1-18F8B00F88EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D21441-8501-0140-6499-D3B16708236D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D21441-8501-0140-6499-D3B16708236D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D21441-8501-0140-6499-D3B16708236D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D21441-8501-0140-6499-D3B16708236D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04C7055-1B25-E5D7-4F63-03EB04E12063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04C7055-1B25-E5D7-4F63-03EB04E12063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04C7055-1B25-E5D7-4F63-03EB04E12063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04C7055-1B25-E5D7-4F63-03EB04E12063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
